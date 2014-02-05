@@ -48,7 +48,7 @@
 
 * * *
 
-# and a panic button, for when you screw up
+# and a panic button  for when you screw up
 
 
 * * *
@@ -58,7 +58,7 @@
 
 * * *
 
-# and makes merges quick and easy (lol SVN)
+# and merge back quick and easy (lol SVN)
 
 
 * * *
@@ -74,7 +74,28 @@
 
 <!-- background: #303030 -->
 
-# **"Fine, show me how to use it."**
+# **"But the interface is scary and the docs don't make sense"**
+
+
+* * *
+
+<!-- background: #fff -->
+
+# I know :(
+
+
+* * *
+
+<!-- background: #fff -->
+
+# Aliases and text editor plugins help
+
+
+* * *
+
+<!-- background: #303030 -->
+
+# **"Fine, show me how to use it"**
 
 
 * * *
