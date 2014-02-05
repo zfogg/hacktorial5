@@ -63,7 +63,12 @@
 
 * * *
 
-# and merge back quick and easy (lol SVN)
+# and merge back painlessly (lol SVN)
+
+
+* * *
+
+# Git gives you difference diagnostics
 
 
 * * *
