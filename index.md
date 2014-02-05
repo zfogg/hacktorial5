@@ -1,14 +1,13 @@
 
-<!-- background: #2d2422 -->
-<!-- color: #fff4e3 -->
+<!-- background: #151515 -->
+<!-- color: #f5f5f5 -->
 
 # **Hacktorial 5 - Intro to Git**
 
 
 * * *
 
-<!-- background: #4cc24e -->
-<!-- color: #fff4e3 -->
+<!-- background: #ac4142 -->
 
 # **"Who even cares about Version Control Systems?"**
 
@@ -35,13 +34,14 @@
 
 * * *
 
-<!-- background: #451834 -->
-<!-- color: #fff4e3 -->
+<!-- background: #202020 -->
 
 # **"Well what's so great about version control?"**
 
 
 * * *
+
+<!-- background: #90a959 -->
 
 # Ctrl + S
 
@@ -73,13 +73,14 @@
 
 * * *
 
-<!-- background: #00b98c -->
-<!-- color: #fff4e3 -->
+<!-- background: #303030 -->
 
 # **"Fine, show me how to use it."**
 
 
 * * *
+
+<!-- background: #6a9fb5 -->
 
 # Okay
 
@@ -145,8 +146,8 @@
 
 * * *
 
-<!-- background: #9c9c9d -->
-<!-- color: #fff4e3 -->
+<!-- background: #b0b0b0 -->
+<!-- color: #151515 -->
 
 # **"That's it? Why can't I just share the folder with him via Dropbox?"**
 
@@ -160,6 +161,9 @@
 
 * * *
 
+<!-- background: #aa579f -->
+<!-- color: #f5f5f5 -->
+
 # A few problems arise when you collaborate with someone
 
 
@@ -167,13 +171,13 @@
 
 ## What if there are **merge conflicts**?
 
-Two people are working on a project.  
+Two people are working on a project.
 Both are on the master branch, both are at the same commit.
 
-One person changes a line in a file,  
+One person changes a line in a file,
 the other person deletes the same line in the same file.
 
-One person stages, commits, and pushes their changes.  
+One person stages, commits, and pushes their changes.
 Of course this works just fine; a very standard task for Git.
 
 Now, the second person tries to commit and push their changes.
@@ -213,8 +217,8 @@ Now, the second person tries to commit and push their changes.
 
 * * *
 
-<!-- background: #b2cdb7 -->
-<!-- color: #fff4e3 -->
+<!-- background: #d0d0d0 -->
+<!-- color: #151515 -->
 
 ## Branches on branches
 
@@ -225,16 +229,29 @@ Now, the second person tries to commit and push their changes.
 
 * * *
 
-<!-- background: #cc5f4a -->
-<!-- color: #fff4e3 -->
+<!-- background: #8f5536 -->
+<!-- color: #f5f5f5 -->
 
 # gitflow does all of that stuff for you
 
 
 * * *
 
-<!-- background: #f39b12 -->
-<!-- color: #fff4e3 -->
+# Feature, release, hotfix, support.
+
+
+* * *
+
+<!-- background: #e0e0e0 -->
+<!-- color: #151515 -->
+
+# **Got all that?**
+
+
+* * *
+
+<!-- background: #ac4142 -->
+<!-- color: #f5f5f5 -->
 
 # Thanks for coming!
 
