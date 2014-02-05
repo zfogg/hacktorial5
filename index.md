@@ -29,6 +29,11 @@
 
 * * *
 
+# Because you take yourself seriously
+
+
+* * *
+
 # You're not smart enough to *not* use it
 
 
@@ -79,21 +84,19 @@
 
 * * *
 
-<!-- background: #fff -->
+<!-- background: #f4bf75 -->
 
 # I know :(
 
 
 * * *
 
-<!-- background: #fff -->
-
 # Aliases and text editor plugins help
 
 
 * * *
 
-<!-- background: #303030 -->
+<!-- background: #505050 -->
 
 # **"Fine, show me how to use it"**
 
