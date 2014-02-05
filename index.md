@@ -213,19 +213,19 @@ Now, the second person tries to commit and push their changes.
 
 * * *
 
-<!-- background: #cc5f4a -->
+<!-- background: #b2cdb7 -->
 <!-- color: #fff4e3 -->
 
 ## Branches on branches
 
 <p align="center">
-  <img src="http://erickryski.com/assets/img/git_branch_diagram.jpg">
+  <img src="https://www.atlassian.com/git/workflows/pageSections/00/contentFullWidth/0/tabs/02/pageSections/06/contentFullWidth/0/content_files/file0/document/git-workflow-release-cycle-2feature.png">
 </p>
 
 
 * * *
 
-<!-- background: #75b6d3 -->
+<!-- background: #cc5f4a -->
 <!-- color: #fff4e3 -->
 
 # gitflow does all of that stuff for you
