@@ -43,28 +43,27 @@
 
 <!-- background: #90a959 -->
 
-# Ctrl + S
+# Git is a camera for your project
 
 
 * * *
 
-# Panic button
+# and a panic button, for when you screw up
 
 
 * * *
 
-# Branch out
+# It lets you branch out
 
 
 * * *
 
-# Merge back
+# and makes merges quick and easy (lol SVN)
 
 
 * * *
 
-# Version numbers
-
+# A tag is like a new save file
 
 * * *
 
@@ -106,7 +105,9 @@
 * * *
 
     % touch index.coffee
+
     % git add index.coffee
+
     % git commit -m "Initial commit."
 
 
@@ -128,7 +129,6 @@
 * * *
 
 # Now your buddy can help you hack
-
 
 
 * * *
