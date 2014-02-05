@@ -154,18 +154,18 @@
 * * *
 
 <p align="center">
-  <img src="http://i.imgur.com/jAodaB5.jpg">
+  <img src="http://i.imgur.com/jAodaB5.jpg" width="320" height="318">
 </p>
 
 
 * * *
 
-# Git has tools to solve collaboration problems
+# A few problems arise when you collaborate with someone
 
 
 * * *
 
-## But what if there are **merge conflicts**?
+## What if there are **merge conflicts**?
 
 Two people are working on a project.  
 Both are on the master branch, both are at the same commit.
@@ -176,7 +176,7 @@ the other person deletes the same line in the same file.
 One person stages, commits, and pushes their changes.  
 Of course this works just fine; a very standard task for Git.
 
-Now the second person tries to commit and push their changes.
+Now, the second person tries to commit and push their changes.
 
 
 * * *
@@ -188,7 +188,12 @@ Now the second person tries to commit and push their changes.
 
 * * *
 
-Let's find out!
+# Git has tools to fix code collaboration issues
+
+
+* * *
+
+# but sometimes manual work is still required :(
 
 
 * * *
@@ -216,6 +221,14 @@ Let's find out!
 <p align="center">
   <img src="http://erickryski.com/assets/img/git_branch_diagram.jpg">
 </p>
+
+
+* * *
+
+<!-- background: #75b6d3 -->
+<!-- color: #fff4e3 -->
+
+# gitflow does all of that stuff for you
 
 
 * * *
