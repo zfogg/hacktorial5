@@ -1,7 +1,4 @@
 
-<!-- background: #151515 -->
-<!-- color: #f5f5f5 -->
-
 # **Hacktorial 5 - Intro to Git**
 
 
